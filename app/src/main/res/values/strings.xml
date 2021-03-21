@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dr.Flora</string>
+    <string name="gallery">gallery</string>
+    <string name="classify">Classify</string>
+    <string name="camera">camera</string>
+    <string name="choose">CHOOSE</string>
+</resources>
